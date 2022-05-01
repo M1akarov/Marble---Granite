@@ -436,12 +436,12 @@ input {
   overflow: var(--img-hidden);
 }
 
-.about__img-one {
-  width: 230px;
-}
+/* .about__img-one {
+  width: 530px;
+} */
 
 .about__img-two {
-  width: 380px;
+  width: 150%;
 }
 
 .about__img-one,
