@@ -375,7 +375,7 @@ input {
 .home__info-img {
   width: 145px;
   transition: var(--img-transition);
-  border-radius: 10;
+  border-radius: 10px;
 }
 
 .home__info-img:hover {
@@ -993,6 +993,7 @@ input {
   }
   .home__info-img {
     width: 240px;
+    border-radius: 10px;
   }
   .about__img-one {
     width: 230px;
